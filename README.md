@@ -17,9 +17,13 @@ Bacharelado em Gestão da Informação · UFPE
 
 <br>
 
+<div align="center">
+
 | **95.174** | **90.336** | **125** | **94** |
 |:---:|:---:|:---:|:---:|
 | casos confirmados | curas | óbitos pelo agravo | bairros |
+
+</div>
 
 ## Sobre
 
