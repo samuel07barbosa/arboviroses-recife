@@ -1,0 +1,142 @@
+bairro_nome_residencia,bairro,distrito_sanitario,distrito_codigo,tipo_registro
+BOA VISTA,Boa Vista,DS I,117,oficial
+CABANGA,Cabanga,DS I,117,oficial
+COELHOS,Coelhos,DS I,117,oficial
+ILHA JOANA BEZERRA,Ilha Joana Bezerra,DS I,117,oficial
+ILHA DO LEITE,Ilha do Leite,DS I,117,oficial
+PAISSANDU,Paissandu,DS I,117,oficial
+RECIFE,Recife,DS I,117,oficial
+SANTO AMARO,Santo Amaro,DS I,117,oficial
+SANTO ANTONIO,Santo Antônio,DS I,117,oficial
+SOLEDADE,Soledade,DS I,117,oficial
+SAO JOSE,São José,DS I,117,oficial
+ALTO SANTA TEREZINHA,Alto Santa Terezinha,DS II,118,oficial
+ARRUDA,Arruda,DS II,118,oficial
+BEBERIBE,Beberibe,DS II,118,oficial
+BOMBA DO HEMETERIO,Bomba do Hemetério,DS II,118,oficial
+CAJUEIRO,Cajueiro,DS II,118,oficial
+CAMPINA DO BARRETO,Campina do Barreto,DS II,118,oficial
+CAMPO GRANDE,Campo Grande,DS II,118,oficial
+DOIS UNIDOS,Dois Unidos,DS II,118,oficial
+ENCRUZILHADA,Encruzilhada,DS II,118,oficial
+FUNDAO,Fundão,DS II,118,oficial
+HIPODROMO,Hipódromo,DS II,118,oficial
+LINHA DO TIRO,Linha do Tiro,DS II,118,oficial
+PEIXINHOS,Peixinhos,DS II,118,oficial
+PONTO DE PARADA,Ponto de Parada,DS II,118,oficial
+PORTO DA MADEIRA,Porto da Madeira,DS II,118,oficial
+ROSARINHO,Rosarinho,DS II,118,oficial
+TORREAO,Torreão,DS II,118,oficial
+AGUA FRIA,Água Fria,DS II,118,oficial
+AFLITOS,Aflitos,DS III,119,oficial
+ALTO DO MANDU,Alto do Mandu,DS III,119,oficial
+APIPUCOS,Apipucos,DS III,119,oficial
+CASA AMARELA,Casa Amarela,DS III,119,oficial
+CASA FORTE,Casa Forte,DS III,119,oficial
+DERBY,Derby,DS III,119,oficial
+DOIS IRMAOS,Dois Irmãos,DS III,119,oficial
+ESPINHEIRO,Espinheiro,DS III,119,oficial
+GRACAS,Graças,DS III,119,oficial
+JAQUEIRA,Jaqueira,DS III,119,oficial
+MONTEIRO,Monteiro,DS III,119,oficial
+PARNAMIRIM,Parnamirim,DS III,119,oficial
+POCO,Poço da Panela,DS III,119,oficial
+SANTANA,Santana,DS III,119,oficial
+SITIO DOS PINTOS,Sítio dos Pintos,DS III,119,oficial
+TAMARINEIRA,Tamarineira,DS III,119,oficial
+CAXANGA,Caxangá,DS IV,120,oficial
+CIDADE UNIVERSITARIA,Cidade Universitária,DS IV,120,oficial
+CORDEIRO,Cordeiro,DS IV,120,oficial
+ENGENHO DO MEIO,Engenho do Meio,DS IV,120,oficial
+ILHA DO RETIRO,Ilha do Retiro,DS IV,120,oficial
+IPUTINGA,Iputinga,DS IV,120,oficial
+MADALENA,Madalena,DS IV,120,oficial
+PRADO,Prado,DS IV,120,oficial
+TORRE,Torre,DS IV,120,oficial
+TORROES,Torrões,DS IV,120,oficial
+VARZEA,Várzea,DS IV,120,oficial
+ZUMBI,Zumbi,DS IV,120,oficial
+AFOGADOS,Afogados,DS V,121,oficial
+AREIAS,Areias,DS V,121,oficial
+BARRO,Barro,DS V,121,oficial
+BONGI,Bongi,DS V,121,oficial
+CACOTE,Caçote,DS V,121,oficial
+COQUEIRAL,Coqueiral,DS V,121,oficial
+CURADO,Curado,DS V,121,oficial
+ESTANCIA,Estância,DS V,121,oficial
+JARDIM SAO PAULO,Jardim São Paulo,DS V,121,oficial
+JIQUIA,Jiquiá,DS V,121,oficial
+MANGUEIRA,Mangueira,DS V,121,oficial
+MUSTARDINHA,Mustardinha,DS V,121,oficial
+SAN MARTIN,San Martin,DS V,121,oficial
+SANCHO,Sancho,DS V,121,oficial
+TEJIPIO,Tejipió,DS V,121,oficial
+TOTO,Totó,DS V,121,oficial
+BOA VIAGEM,Boa Viagem,DS VI,122,oficial
+BRASILIA TEIMOSA,Brasília Teimosa,DS VI,122,oficial
+IMBIRIBEIRA,Imbiribeira,DS VI,122,oficial
+IPSEP,Ipsep,DS VI,122,oficial
+PINA,Pina,DS VI,122,oficial
+ALTO JOSE BONIFACIO,Alto José Bonifácio,DS VII,546,oficial
+ALTO JOSE DO PINHO,Alto José do Pinho,DS VII,546,oficial
+BREJO DA GUABIRABA,Brejo da Guabiraba,DS VII,546,oficial
+BREJO DE BEBERIBE,Brejo de Beberibe,DS VII,546,oficial
+CORREGO DO JENIPAPO,Córrego do Jenipapo,DS VII,546,oficial
+GUABIRABA,Guabiraba,DS VII,546,oficial
+MACAXEIRA,Macaxeira,DS VII,546,oficial
+MANGABEIRA,Mangabeira,DS VII,546,oficial
+MORRO DA CONCEICAO,Morro da Conceição,DS VII,546,oficial
+NOVA DESCOBERTA,Nova Descoberta,DS VII,546,oficial
+PASSARINHO,Passarinho,DS VII,546,oficial
+PAU FERRO,Pau-Ferro,DS VII,546,oficial
+VASCO DA GAMA,Vasco da Gama,DS VII,546,oficial
+COHAB,Cohab,DS VIII,547,oficial
+IBURA,Ibura,DS VIII,547,oficial
+JORDAO,Jordão,DS VIII,547,oficial
+%AGUAFRIA%,Água Fria,DS II,118,variante
+ALTO JOS DO PINHO,Alto José do Pinho,DS VII,546,variante
+ALTO JOSE DO PINH,Alto José do Pinho,DS VII,546,variante
+AREAIS,Areias,DS V,121,variante
+Alto Jos' do Pinho,Alto José do Pinho,DS VII,546,variante
+BEERIBE,Beberibe,DS II,118,variante
+BOMBA DO HEMET╔RIO,Bomba do Hemetério,DS II,118,variante
+BREJO DE GUABIRABA,Brejo da Guabiraba,DS VII,546,variante
+CAMPO GRANE,Campo Grande,DS II,118,variante
+CASA MARELA,Casa Amarela,DS III,119,variante
+CORDRIRO,Cordeiro,DS IV,120,variante
+CORREGO DO JENPAPO,Córrego do Jenipapo,DS VII,546,variante
+CORREGO JENIPAPO,Córrego do Jenipapo,DS VII,546,variante
+Campo Grande,Campo Grande,DS II,118,variante
+ENGENHO MEIO,Engenho do Meio,DS IV,120,variante
+FundÆo,Fundão,DS II,118,variante
+GRAAS,Graças,DS III,119,variante
+GUAB,Guabiraba,DS VII,546,variante
+GUABIR,Guabiraba,DS VII,546,variante
+HIPàDROMO,Hipódromo,DS II,118,variante
+ILHA DE JOANA BEZERRA,Ilha Joana Bezerra,DS I,117,variante
+ILHA DE RETIRO,Ilha do Retiro,DS IV,120,variante
+IMB,Imbiribeira,DS VI,122,variante
+INBIRIBEIRA,Imbiribeira,DS VI,122,variante
+JD.JORDAO,Jordão,DS VIII,547,variante
+JOANA BEZERRA,Ilha Joana Bezerra,DS I,117,variante
+JORDAO ALTO,Jordão,DS VIII,547,variante
+JORDAO BAIXO,Jordão,DS VIII,547,variante
+JORDO,Jordão,DS VIII,547,variante
+MACA\EIRA,Macaxeira,DS VII,546,variante
+MANGABERIA,Mangabeira,DS VII,546,variante
+MANGUEIRA - BAIRRO,Mangueira,DS V,121,variante
+MONTERIO,Monteiro,DS III,119,variante
+MORRO DA CONCEIAO,Morro da Conceição,DS VII,546,variante
+MORRO DA CONCEIO,Morro da Conceição,DS VII,546,variante
+MUSTADINHA,Mustardinha,DS V,121,variante
+PONRO DE PARADA,Ponto de Parada,DS II,118,variante
+SAN MARTIM,San Martin,DS V,121,variante
+SANATO AMARO,Santo Amaro,DS I,117,variante
+SANTE AMARO,Santo Amaro,DS I,117,variante
+SO JOSE,São José,DS I,117,variante
+TEJIPI,Tejipió,DS V,121,variante
+VAR\EA,Várzea,DS IV,120,variante
+VASC,Vasco da Gama,DS VII,546,variante
+VASCO,Vasco da Gama,DS VII,546,variante
+VASIO DAGAMA,Vasco da Gama,DS VII,546,variante
+VASO DA GAMA,Vasco da Gama,DS VII,546,variante
