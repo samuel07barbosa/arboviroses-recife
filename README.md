@@ -43,6 +43,14 @@ O indicador central é o **caso confirmado** pela classificação final do SINAN
 
 ![Página Sintomas e comorbidades](docs/img/sintomas-comorbidades.png)
 
+## Layout
+
+As três páginas seguem o mesmo padrão em tela 16:9 (1366 × 768 px): cabeçalho azul com o logo e os filtros à direita, indicadores e gráficos em cards brancos e, na Visão geral, uma barra de rodapé. Cada página tem um fundo próprio, desenhado como imagem com as mesmas margens e o mesmo cabeçalho. Os gráficos, filtros e textos do Looker Studio ficam por cima, alinhados aos cards.
+
+| Visão geral | Território | Sintomas e comorbidades |
+|:---:|:---:|:---:|
+| ![Fundo da Visão geral](docs/img/fundos/fundo-visao-geral.png) | ![Fundo do Território](docs/img/fundos/fundo-territorio.png) | ![Fundo de Sintomas e comorbidades](docs/img/fundos/fundo-sintomas-comorbidades.png) |
+
 ## Como foi construído
 
 1. **Coleta** — três bases do SINAN (dengue, chikungunya e zika) do Portal de Dados Abertos do Recife, com cerca de 180 mil registros de notificação de residentes do município.
@@ -50,6 +58,7 @@ O indicador central é o **caso confirmado** pela classificação final do SINAN
 3. **Tabelas de apoio** — calendário, padronização de 141 grafias para os 94 bairros oficiais e 8 distritos sanitários, e coordenadas para o mapa.
 4. **Modelagem** — campos calculados e mesclas no Looker Studio, que agregam cada base separadamente antes de juntá-las.
 5. **Validação** — cada indicador conferido contra os arquivos originais antes de entrar no painel.
+6. **Design** — fundos 16:9 gerados em Python (Pillow) e usados como imagem de fundo de cada página, com os componentes posicionados sobre os cards.
 
 Regras, fórmulas e conferências estão em [`docs/metodologia.md`](docs/metodologia.md).
 
@@ -64,7 +73,7 @@ Regras, fórmulas e conferências estão em [`docs/metodologia.md`](docs/metodol
 ## Estrutura
 
 ```
-docs/      metodologia e imagens do painel
+docs/      metodologia, imagens do painel e fundos das páginas (docs/img/fundos)
 dados/     tabelas de apoio usadas nas mesclas
 scripts/   geração das tabelas de apoio
 ```
